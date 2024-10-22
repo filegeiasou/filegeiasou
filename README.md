@@ -1,5 +1,3 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31h6j4zdcxto63453inwhdhsj3je&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
-
 
 ![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Aggelos%20Mentzelos%20&text2=👷%20%20A%20Passionate%20Coder&width=900&height=400)
 
