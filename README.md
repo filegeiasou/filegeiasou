@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Telecoms**
+- 🌱 I’m currently learning **PLC**
 
 - 💬 Ask me about **Arduino and Java**
 
